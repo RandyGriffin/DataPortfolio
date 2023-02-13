@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python, Tableau on Randy Griffin</title>
+    <link>https://randygriffin.github.io/DataPortfolio/tags/python-tableau/</link>
+    <description>Recent content in Python, Tableau on Randy Griffin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jan 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://randygriffin.github.io/DataPortfolio/tags/python-tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City Toll Analysis</title>
+      <link>https://randygriffin.github.io/DataPortfolio/post/project-3/</link>
+      <pubDate>Fri, 20 Jan 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://randygriffin.github.io/DataPortfolio/post/project-3/</guid>
+      <description>Collect and consolidate toll data from multiple sources Clean and preprocess data to ensure accuracy and completeness Analyze toll usage patterns and trends to identify peak usage times, most popular routes, etc. Identify correlations between different variables such as weather, traffic, and toll usage Develop visualizations and dashboards to communicate findings to stakeholders Develop and implement data governance and quality control processes for toll data Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

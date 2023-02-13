@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis Portfolio on Randy Griffin</title>
+    <link>https://randygriffin.github.io/DataPortfolio/</link>
+    <description>Recent content in Data Analysis Portfolio on Randy Griffin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jan 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://randygriffin.github.io/DataPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City Toll Analysis</title>
+      <link>https://randygriffin.github.io/DataPortfolio/post/project-3/</link>
+      <pubDate>Fri, 20 Jan 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://randygriffin.github.io/DataPortfolio/post/project-3/</guid>
+      <description>Collect and consolidate toll data from multiple sources Clean and preprocess data to ensure accuracy and completeness Analyze toll usage patterns and trends to identify peak usage times, most popular routes, etc. Identify correlations between different variables such as weather, traffic, and toll usage Develop visualizations and dashboards to communicate findings to stakeholders Develop and implement data governance and quality control processes for toll data Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Stock Screener</title>
+      <link>https://randygriffin.github.io/DataPortfolio/post/project-4/</link>
+      <pubDate>Sat, 03 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://randygriffin.github.io/DataPortfolio/post/project-4/</guid>
+      <description>Created a tool that allows the user to enter stock tickers and retrieve the latest data from yahoo finance. Stocks can be filtered by moving average, P/E ratio, and more. Currently in beta, and will be updated with new features in the future. Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://randygriffin.github.io/DataPortfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randygriffin.github.io/DataPortfolio/about/</guid>
+      <description>My name is Randy Griffin and I am pursing a career in Data Analysis. I have graduated college in Fall 2022 with a degree in Computer Science. Within the next few years, I will have the knowledge to become successful in my field and teach others all about Data Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://randygriffin.github.io/DataPortfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randygriffin.github.io/DataPortfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL LinkedIn: https://www.linkedin.com/in/randy-j-griffin/ GitHub: https://github.com/RandyGriffin Twitter: https://twitter.com/TechandStocks </description>
+    </item>
+    
+    <item>
+      <title>Hotel Analysis</title>
+      <link>https://randygriffin.github.io/DataPortfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randygriffin.github.io/DataPortfolio/post/project-5/</guid>
+      <description>Designed a interactive data visualization tool to track hotel revenue using SQL and Power BI Generated KPI&amp;rsquo;s, which assisted in budget planning and providing insights Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
